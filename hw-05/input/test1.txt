@@ -1,0 +1,16 @@
+find 0
+find 1
+find 5
+insert 20 1
+insert 1 0
+insert 10 11
+insert -1 0
+find 1
+insert 1 10
+find 1
+insert 15 10
+find 15
+insert 60 2
+find 10
+find -2
+find 10

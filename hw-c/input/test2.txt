@@ -1,0 +1,5 @@
+DimPromotion.PromotionKey,DimEmployee.PayFrequency,DimPromotion.EnglishPromotionName
+3
+DimPromotion.PromotionKey > 8
+DimDate.FiscalSemester <> 2
+DimSalesTerritory.SalesTerritoryGroup = 'Europe'

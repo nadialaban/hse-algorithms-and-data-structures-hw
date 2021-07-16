@@ -1,0 +1,6 @@
+FactResellerSales.CarrierTrackingNumber,FactResellerSales.CustomerPONumber,FactResellerSales.SalesOrderNumber
+3
+FactResellerSales.EmployeeKey < 287
+FactResellerSales.OrderQuantity <= 7
+FactResellerSales.OrderQuantity >= 3
+FactResellerSales.CarrierTrackingNumber <> '4E0A-4F89-AE'

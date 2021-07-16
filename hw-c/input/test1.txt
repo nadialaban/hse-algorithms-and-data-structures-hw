@@ -1,0 +1,2 @@
+FactResellerSales.OrderQuantity,DimCurrency.CurrencyName,DimSalesTerritory.SalesTerritoryCountry,DimDate.EnglishDayNameOfWeek,DimEmployee.VacationHours
+0

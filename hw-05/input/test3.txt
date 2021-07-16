@@ -1,0 +1,490 @@
+find -491
+insert -714 -684
+insert 57 70
+insert -863 123
+find 373
+find -208
+insert 861 -448
+find 861
+insert -278 -211
+find -182
+find 802
+insert -783 -97
+find -714
+find -108
+find 101
+find -783
+insert 888 880
+insert -271 707
+find 685
+find -863
+insert 861 75
+find 57
+insert 762 418
+insert -626 387
+insert -795 997
+find -714
+insert -779 -860
+find -779
+insert -851 911
+insert -972 -330
+find 529
+find -510
+insert -177 742
+find -364
+insert 119 -33
+find 888
+find 119
+insert 247 859
+find -972
+insert -710 -943
+insert -195 -603
+insert 144 269
+find 247
+find -555
+insert -508 150
+find -299
+insert -586 -628
+insert 472 341
+insert 193 412
+insert 656 -31
+find 191
+find -586
+insert 669 -368
+insert 809 -242
+insert -25 890
+insert 867 -298
+find -586
+find -783
+find 418
+insert -104 -603
+find -229
+insert 739 524
+find -177
+find -779
+insert 910 911
+insert -834 425
+insert -516 -58
+insert 414 103
+find -795
+insert -586 -516
+find -815
+find -177
+insert -81 808
+find 656
+insert -967 759
+find 472
+insert 34 -588
+insert -396 810
+find -286
+find 946
+find -863
+insert -214 561
+insert 867 996
+insert -296 209
+find 861
+find 669
+insert 30 -979
+find -972
+find 144
+find 910
+insert 421 803
+insert 63 -399
+insert 884 -540
+insert -90 795
+find -90
+insert 23 855
+insert -405 791
+insert -629 812
+insert -972 123
+find -278
+insert -493 -401
+insert -144 607
+insert 933 -341
+find 933
+find -47
+insert -422 645
+find 992
+insert 619 772
+insert -271 -478
+insert 983 445
+insert -827 -316
+find -761
+find -611
+find 884
+insert -214 -735
+find 33
+insert 425 419
+find 144
+find -891
+insert -96 963
+find 762
+insert -395 -844
+find -422
+find -330
+find -572
+insert 746 282
+insert 194 148
+find 351
+insert -436 954
+insert -958 -507
+insert 703 197
+insert -737 767
+find -851
+insert 570 601
+find 421
+find 830
+insert 112 -76
+find 168
+insert -113 -138
+find -999
+find -714
+insert 657 -82
+find -230
+insert -800 -818
+insert -783 386
+find 472
+find 767
+insert 917 -747
+insert 549 -826
+find -81
+insert -573 522
+insert 223 715
+find -436
+find -30
+find 898
+insert 170 444
+insert 123 347
+insert -815 -293
+insert -269 451
+find -214
+insert 228 -767
+find -81
+insert -5 -640
+find 421
+find -972
+find -834
+find 656
+insert 867 857
+insert 873 -246
+find 910
+find 914
+find 755
+insert 91 442
+find -508
+insert 667 -421
+find -269
+insert 388 479
+find 34
+find 475
+find 193
+insert 557 689
+insert -175 263
+insert 418 145
+insert -729 306
+insert 669 -289
+insert 959 -758
+insert 888 511
+insert 677 -242
+find -958
+find -405
+insert -419 -772
+insert 336 -946
+find -851
+insert 114 -144
+insert -159 -476
+insert -958 -439
+find 225
+find 910
+insert -397 -215
+insert 993 443
+find -967
+find 888
+find 886
+insert 434 -947
+find -397
+find -342
+find 418
+insert 420 874
+find -710
+insert 871 -726
+insert 968 583
+find -397
+find -484
+find 228
+insert 961 -82
+find 123
+insert 110 904
+insert 571 -404
+insert -341 -148
+insert -539 -219
+insert -849 270
+insert 385 -77
+insert -657 -373
+insert -395 -26
+insert 259 823
+find -383
+find 385
+find -87
+find 671
+find -972
+insert 428 -179
+find -573
+find -779
+insert -823 340
+find 959
+find -278
+insert 394 70
+insert 885 -48
+find -367
+find 933
+find 833
+find -523
+find 241
+find 694
+insert 386 369
+find 414
+insert -994 725
+insert 612 -198
+find -516
+insert -650 703
+find 657
+insert 535 -244
+find 667
+insert 565 -445
+insert 491 -108
+insert -621 -98
+insert -514 554
+insert 863 366
+find 985
+find -310
+insert -921 916
+insert -863 16
+insert 993 -756
+insert -123 -327
+insert -794 397
+find 619
+insert 996 -614
+insert -821 -776
+insert 456 -964
+insert 349 -785
+insert 639 718
+find -436
+insert -880 773
+insert 908 142
+insert -841 -740
+insert 491 515
+insert -47 287
+insert -500 532
+insert 786 126
+find 225
+find 669
+find 830
+find -834
+insert 262 -848
+find 193
+insert 760 -380
+find -560
+insert 772 -357
+insert 114 -310
+insert 750 553
+insert -122 -772
+insert -100 97
+insert 928 -366
+find -573
+insert -680 533
+find 119
+insert 639 -623
+insert -703 158
+insert -941 959
+insert -207 420
+insert 772 -740
+find -396
+find 384
+insert 491 -303
+find -822
+insert 637 989
+find 421
+insert 829 723
+insert -728 -931
+find 871
+insert -264 368
+insert 645 902
+insert -465 -754
+find -15
+find 335
+find -647
+insert 513 767
+insert -313 -129
+insert -860 -463
+insert -401 266
+find 772
+find 341
+find -704
+find 435
+insert -214 575
+find 431
+insert 501 54
+find 535
+insert -395 506
+insert -574 356
+insert 396 -638
+insert -827 91
+find -794
+insert 564 -54
+find 620
+insert -907 612
+find -783
+insert 565 -736
+find 385
+insert 916 844
+find 871
+insert 417 887
+insert -659 -441
+insert 810 46
+find -827
+find 571
+find -820
+find 535
+insert 185 -487
+find -207
+insert -409 -267
+insert -100 -380
+find -100
+find -404
+find -838
+find 800
+find -650
+find -499
+find -623
+find -269
+find -296
+find -100
+insert 775 -933
+find 656
+find -654
+find 810
+insert -816 -839
+find -956
+insert 651 -137
+find -907
+insert 741 -404
+find -98
+find 114
+find 223
+find 491
+insert 86 -791
+insert -269 -15
+find -516
+insert -784 158
+find 721
+find -657
+insert 911 159
+insert 888 148
+find 880
+find -500
+find 125
+find -795
+insert -998 -251
+find -195
+insert -286 -384
+insert 506 799
+insert 397 -159
+insert 513 -618
+find 867
+find -438
+find -626
+find 861
+insert -683 -701
+find 491
+insert 550 823
+find -201
+insert -850 22
+insert 440 488
+find 513
+find -659
+find 112
+insert 309 -59
+insert -215 -59
+find 456
+find 86
+find 503
+insert -81 134
+insert -783 -779
+find 755
+find -863
+find 425
+insert -844 -413
+find -122
+find -462
+insert -329 -227
+find 741
+find 762
+find -675
+find 276
+find 928
+insert -539 765
+insert 435 21
+find -972
+find -144
+insert -175 -137
+insert 530 -336
+find 27
+find -851
+find 77
+find -571
+find -597
+find -946
+insert 986 -920
+find -555
+insert 565 -882
+insert 278 232
+insert -958 665
+insert -901 259
+find -430
+insert 220 -313
+find 899
+insert -147 -418
+find -702
+find 475
+insert 915 920
+find 534
+find 454
+insert -657 -910
+find -972
+find 326
+insert 851 813
+insert 447 -693
+insert -382 -600
+insert -257 -26
+insert -934 856
+find -216
+insert -786 485
+find -595
+find 706
+find -949
+find 921
+find -573
+insert -961 -404
+insert 847 664
+insert 747 -404
+insert -285 55
+insert -69 -855
+find 108
+find -695
+insert 361 -827
+insert 426 704
+find -600
+find -59
+insert 259 706
+find -183
+insert -364 -174
+find -74
+insert -95 -897
+find -647
+insert -605 -716
+insert 741 -413
+insert -276 119
+find 397
+insert 273 177
+find -728

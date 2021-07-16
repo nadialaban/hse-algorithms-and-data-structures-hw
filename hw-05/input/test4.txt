@@ -1,0 +1,766 @@
+find -679
+insert 34 -30
+insert 41 28
+find 41
+find -806
+find 34
+insert 34 -35
+insert 49 -24
+find 34
+find 34
+find 34
+insert -72 73
+insert 49 -59
+find 34
+find -696
+insert 31 66
+insert 77 -62
+insert 58 13
+find -533
+find 49
+insert -100 94
+find -638
+insert 36 -52
+insert 27 -13
+find -91
+find 49
+insert 27 -26
+find 31
+find 36
+find 824
+insert 29 -67
+insert -63 38
+insert -42 51
+find -144
+insert 53 -41
+insert 98 98
+find 85
+insert 40 -45
+find 160
+find 77
+find -637
+insert 27 15
+insert 46 -69
+find 77
+insert 51 98
+find 98
+insert -83 25
+find 46
+find 53
+insert -68 100
+insert 34 -3
+find 29
+insert 38 68
+insert -87 93
+insert 46 62
+insert 43 -89
+find 77
+insert 61 37
+find -272
+insert 61 58
+insert -35 -75
+insert 30 -63
+insert 52 48
+find 311
+find -308
+find 30
+find 61
+find -440
+find -35
+find 52
+find 58
+insert -70 26
+insert -22 -90
+insert 37 -95
+insert 48 -61
+insert 67 -18
+find 408
+insert -50 -32
+find -63
+insert 97 51
+find -44
+find -68
+insert 81 6
+find -41
+find 51
+insert 3 -33
+insert 83 -73
+insert 90 49
+find 49
+insert -51 -90
+find -703
+find -496
+find -673
+find -100
+find 442
+find 212
+insert 80 26
+find 97
+find 506
+find 97
+insert 33 -82
+find 43
+insert 89 -18
+find -72
+insert -5 -55
+find 499
+insert -28 -30
+find -50
+find 46
+insert 38 89
+find 38
+insert 97 -58
+find 97
+find 314
+find 38
+find 1
+find -100
+find -158
+insert -64 36
+insert 80 6
+insert 34 -4
+find -178
+insert -27 -57
+insert 4 -94
+find -96
+insert -86 87
+insert -96 -26
+insert 38 18
+find -279
+find -359
+insert 46 54
+find -11
+find -51
+insert 37 -88
+insert 72 -31
+find 72
+insert 9 79
+insert 34 97
+insert -53 48
+find 52
+find -50
+find 245
+find 37
+insert 90 -23
+insert 56 -95
+find -567
+find 224
+insert -81 -90
+find 41
+insert 45 -35
+find 386
+find 9
+find 381
+insert 26 48
+insert -92 10
+find -927
+insert 31 30
+find -96
+insert -33 -71
+insert 29 -49
+insert -99 6
+find 627
+find -822
+insert 56 -16
+find 46
+insert 80 100
+find -81
+insert -2 73
+insert -8 -87
+find 927
+insert -87 -71
+insert 89 -45
+insert -21 -8
+find -99
+find -81
+find 451
+find -771
+find 56
+find -50
+find -86
+insert 21 -91
+find 205
+insert 27 85
+find 576
+find 27
+find 56
+find 926
+find 34
+insert 37 -50
+find -27
+insert 76 52
+insert 97 -96
+insert -98 -77
+find 97
+find 247
+insert 21 -18
+find -971
+insert 98 54
+find 256
+insert -42 54
+insert 37 -34
+find 30
+insert -47 12
+insert -87 29
+find -33
+insert 43 -82
+insert 89 -32
+insert 9 -53
+find 51
+insert -83 -55
+find 622
+insert 47 -33
+insert 74 90
+find -616
+find -53
+find 855
+insert -8 23
+find -142
+find 37
+insert -41 -24
+find -64
+find -68
+find -447
+insert -26 -95
+insert 21 69
+find -42
+find 16
+find 779
+find 21
+insert 42 55
+find -453
+insert -63 -44
+insert -92 72
+find 34
+find -35
+insert -70 96
+insert 50 47
+find -8
+insert -97 15
+insert 61 -71
+insert -49 -3
+find -917
+insert 4 -77
+insert 38 -11
+insert -9 100
+find -92
+insert -2 -92
+insert 36 45
+insert 3 -14
+find 97
+insert 1 -61
+find -2
+insert 46 -17
+find 339
+find -742
+insert -29 92
+insert -93 -99
+insert 18 -1
+find 74
+find 712
+insert -40 -79
+insert 32 6
+find -836
+find 46
+find -72
+insert 77 -17
+find 367
+insert -96 89
+insert -70 -51
+insert 25 78
+insert 52 52
+insert -59 79
+insert 34 97
+find 745
+insert -21 -78
+insert 84 -21
+insert 17 -52
+find 27
+insert -87 -51
+find 84
+insert -69 59
+insert 34 5
+find 636
+insert 4 -33
+find 942
+insert 17 92
+find -852
+find -99
+find 27
+find -732
+find 929
+find 37
+find 644
+insert 100 -86
+insert -57 -40
+find -28
+find 995
+find 89
+find 97
+insert -93 -96
+find 127
+find -98
+insert 33 -28
+insert -98 59
+find 884
+find 454
+find 48
+find 174
+insert 80 50
+insert -57 33
+find -59
+insert -59 -67
+find -272
+find 46
+find 249
+insert -15 -94
+find -882
+insert 33 -78
+insert 48 -26
+find -901
+insert -37 56
+insert 38 -97
+insert -88 95
+find -321
+insert 27 -85
+insert -9 61
+insert 100 -74
+find 17
+insert 18 32
+find -818
+find -70
+insert 48 22
+find -35
+find 48
+find -69
+insert -45 48
+find -2
+find -70
+find -870
+insert 98 65
+find 393
+insert -28 4
+find -244
+insert -9 93
+find 541
+insert -48 -51
+insert -7 -23
+find 580
+insert 59 -24
+find 875
+find 878
+find 4
+insert 5 -74
+insert -31 81
+insert 90 11
+find 746
+find -100
+insert 33 81
+find -344
+insert 84 -41
+find 243
+insert -96 58
+find 673
+find 394
+insert -39 -79
+insert -22 3
+find 37
+find -216
+find -145
+insert 4 -13
+find -42
+find 418
+find 49
+find 90
+insert -70 -6
+insert -89 72
+insert -10 -5
+insert 39 56
+insert -37 40
+insert -28 -85
+insert -62 52
+find 894
+insert 35 14
+find -868
+insert -53 94
+insert 63 17
+find 408
+find 5
+insert 16 71
+insert -56 97
+find -114
+insert 17 57
+insert 80 67
+find -28
+insert -47 69
+insert -17 81
+find -31
+find 618
+insert -82 -67
+find 27
+find 52
+insert -21 -35
+insert 89 54
+insert -74 -54
+insert -99 -29
+insert 75 -73
+find 852
+find 996
+insert 70 -81
+find -782
+insert 49 -36
+find 97
+find -27
+insert 62 48
+find 77
+insert -4 -75
+find 743
+insert -64 13
+insert 58 -60
+insert -17 -35
+insert 36 74
+insert 74 15
+insert -49 -75
+insert -42 -35
+find -147
+insert 76 -51
+find 545
+find 743
+find -22
+insert 97 -72
+insert -40 -11
+insert -86 85
+insert -30 51
+find -390
+insert 97 -90
+insert -41 -91
+find 83
+find 692
+find 848
+insert 98 88
+insert -87 8
+insert 40 -47
+find 470
+insert -92 73
+insert -49 -90
+insert 46 -4
+insert 93 -63
+find -29
+insert -48 55
+insert 14 84
+find 506
+insert -70 34
+insert 80 -27
+find -87
+find 33
+find -72
+insert -78 -64
+insert -56 -88
+insert -41 -86
+insert -13 32
+insert 36 31
+insert -54 -87
+find 431
+insert 43 19
+find 3
+find -618
+find -826
+insert 77 -46
+insert -31 68
+find -100
+insert -86 20
+find 16
+find -57
+insert 79 74
+insert 62 -68
+find -28
+insert 39 -100
+insert 85 56
+find -74
+insert -86 -33
+find -87
+find -194
+insert 2 36
+insert -66 25
+insert 15 82
+insert -29 -88
+find -100
+insert -70 76
+insert 48 -64
+insert -49 -8
+insert -83 -40
+find 35
+insert 98 -80
+find 936
+find -68
+find -20
+insert 36 -65
+find 687
+find 56
+insert 38 57
+find 551
+find -9
+insert -2 41
+find -83
+find -72
+find 72
+insert 51 -33
+insert -7 63
+insert 53 18
+find 43
+find 29
+insert 23 -13
+insert -62 2
+insert -52 17
+insert 57 -62
+find 158
+insert -31 -12
+find -554
+find 167
+insert 81 55
+insert 42 -42
+find 39
+find -96
+insert 42 80
+insert 73 36
+insert 93 -49
+insert 90 -12
+find -15
+find 23
+insert 1 99
+insert -90 -5
+find -41
+find 30
+find 74
+insert 31 -55
+find 745
+find 832
+insert -77 -8
+insert 66 42
+find -21
+find -705
+find 510
+find 42
+find -96
+find 507
+find -89
+find 775
+insert 97 -46
+find -27
+find 17
+insert -99 19
+insert 27 -44
+insert -34 -59
+insert -87 6
+insert 20 -31
+find -162
+find 52
+insert -63 -46
+insert -48 -54
+insert 28 75
+insert 44 74
+insert 79 25
+insert 40 23
+insert 78 80
+find 37
+insert 22 -32
+find -99
+find -98
+find 36
+insert 22 -2
+find 89
+insert -39 -12
+insert 51 -87
+insert 93 96
+insert 3 23
+find 4
+find -40
+insert -28 32
+insert -78 35
+find -262
+find 66
+insert 31 13
+insert -67 23
+insert 94 64
+find -82
+find -93
+insert 49 30
+find 74
+find 690
+find 56
+find -52
+find 136
+insert -41 46
+insert -46 -49
+insert -73 -26
+find -82
+find -77
+insert 28 34
+find 28
+insert 71 -98
+find -53
+insert 67 4
+insert -47 -45
+find 767
+insert 93 50
+insert 64 -61
+find -40
+find -914
+find -230
+find 67
+insert 82 99
+find -254
+find 56
+find -40
+find -281
+insert -11 62
+find -81
+find -83
+insert -76 -86
+find 70
+insert -30 23
+insert -52 -20
+find -4
+insert -33 81
+find 980
+insert -18 0
+insert 69 -44
+insert 55 61
+find 217
+insert -68 71
+insert 62 79
+find 90
+find 26
+find 33
+find -138
+insert 8 18
+insert 16 64
+find 345
+insert 93 72
+find -45
+insert -41 -25
+find 431
+insert 5 81
+find 39
+find -445
+insert -96 62
+find 796
+find 72
+insert 19 81
+find -5
+find 57
+insert -3 -42
+insert 69 67
+insert -80 78
+find 97
+insert 97 -90
+insert -11 40
+find -363
+find -48
+find 77
+find 93
+insert -20 -44
+find 89
+insert -16 38
+find -662
+find 98
+insert 1 71
+insert -49 87
+find -490
+find 411
+find -29
+find -41
+insert -73 -3
+insert 60 -42
+insert -91 44
+find -98
+find 726
+find 417
+find 18
+find -432
+find -464
+find -98
+insert -54 -83
+find 384
+find 37
+insert -79 -71
+insert 71 -96
+find -733
+find 735
+find -235
+find 79
+find 84
+insert 44 29
+find -933
+insert 40 47
+insert 86 52
+insert -31 55
+insert 92 -55
+insert -65 35
+find -238
+find -41
+insert 1 34
+insert -15 -59
+insert 74 30
+find 422
+find -22
+find -47
+find 75
+insert 93 14
+insert -35 46
+insert -81 -6
+find -617
+find -460
+find -270
+insert 53 -86
+insert 3 -63
+find -11
+insert 30 -42
+find 769
+find -654
+find 575
+insert -29 95
+find 27
+find 1
+find -63
+insert 80 52
+find -758
+find -189
+insert 3 -68
+insert 40 -24
+insert -4 -24
+insert 17 -16
+find -38
+insert -34 54
+find 74
+insert 49 -14
+insert 2 -55
+insert 25 36
+find 103
+insert -39 96
+insert -9 -6
+find 884
+insert -39 24
+find 60
+find -53
+insert 80 76
+insert -95 -70
+find 20
+insert 4 -96
+insert -68 93
+find -387
+find 46
+find 658
+find 80
+find 32
+insert 89 38
+insert 82 -46
+find 592
+insert 31 96
+insert 10 36
+find -38
+find -779
+insert 48 98
+insert 95 87
+insert 67 -57
+insert -91 58

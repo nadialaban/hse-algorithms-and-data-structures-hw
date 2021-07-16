@@ -1,0 +1,10 @@
+DimEmployee.LoginID,DimReseller.ResellerName,FactResellerSales.CustomerPONumber,FactResellerSales.SalesOrderLineNumber,DimDate.FiscalYear,FactResellerSales.OrderQuantity,FactResellerSales.OrderDateKey,DimReseller.ResellerKey,DimDate.DayNumberOfWeek,DimPromotion.PromotionAlternateKey,DimPromotion.EnglishPromotionType,DimEmployee.Phone,DimEmployee.MaritalStatus,DimReseller.BusinessType,FactResellerSales.PromotionKey,DimProduct.StartDate
+8
+DimReseller.ProductLine = 'Mountain'
+DimReseller.Phone <> '1 (11) 500 555-0140'
+DimReseller.BusinessType <> 'Warehouse'
+DimReseller.Phone <> '582-555-0113'
+DimReseller.NumberEmployees > 0
+DimReseller.NumberEmployees > 1
+DimReseller.NumberEmployees < 10
+DimReseller.ProductLine <> 'Road'
